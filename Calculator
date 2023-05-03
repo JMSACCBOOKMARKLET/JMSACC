@@ -1,6 +1,0 @@
-javascript: (function(){
-var input = prompt("Enter a math
-expression:");
-var result = eval (input);
-alert("Result: " + result);
-})0;
